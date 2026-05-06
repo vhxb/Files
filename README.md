@@ -4,12 +4,12 @@ A router table about all content of repository.
 ## GPG PUBLIC-Key
 - [Public-Key](https://github.com/vhxb/router/blob/main/vhxb666gmail_public_key_20260506.asc)
 - [Private-Key](https://github.com/vhxb/router/blob/main/Unlimited_Account_vhxb666gmail_20260506_NeedPassword.asc.gpg)
+- [Bitwarden password](https://github.com/vhxb/router/blob/main/BitwadenPassword_vhxb666gmail_20260506.txt.gpg)
 <!--
 GPG file location:
 1. https://github.com/vhxb/router/tree/main
 2. WeChat collections.
 3. Telegram.
-
 -->
 --------------------------------------------------------------
 ### [learning](https://github.com/vhxb/Learning)
