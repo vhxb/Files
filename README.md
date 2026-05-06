@@ -1,6 +1,9 @@
 # router
 A router table about all content of repository.
 
+## GPG PUBLIC-Key
+- [Public-Key](https://github.com/vhxb/router/blob/main/vhxb666gmail_public_key_20260506.asc)
+
 --------------------------------------------------------------
 ### [learning](https://github.com/vhxb/Learning)
 - [Proxy](https://github.com/vhxb/Learning/tree/main/Proxy)
