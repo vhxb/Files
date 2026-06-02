@@ -38,6 +38,7 @@ GPG file location:
 
 
 -----------------------------------------------------------------
+<!--
 ### [FinancialFreedom](https://github.com/vhxb/FinancialFreedom)
-
+-->
 
